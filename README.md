@@ -1,198 +1,299 @@
 <div align="center">
-  
-# 👋 Hi there, I'm Anwakub!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=200&section=header&text=WELCOME%20TO%20THE%20MATRIX&fontSize=40&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=anwakub%20|%20Cyber%20Developer&descSize=20&descAlignY=55" width="100%"/>
+
+</div>
+
+```
+     _    _   ___        ___    _  ___   _ ____  
+    / \  | \ | \ \      / / \  | |/ / | | | __ ) 
+   / _ \ |  \| |\ \ /\ / / _ \ | ' /| | | |  _ \ 
+  / ___ \| |\  | \ V  V / ___ \| . \| |_| | |_) |
+ /_/   \_\_| \_|  \_/\_/_/   \_\_|\_\\___/|____/ 
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=FULL+STACK+HACKER;SYSTEM+PENETRATION+EXPERT;CODE+WARRIOR;TERMINAL+MASTER;CYBER+SECURITY+ENTHUSIAST" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ whoami
+```
 
-```typescript
-const anwakub = {
-    name: "Anwakub",
-    role: "Full Stack Developer",
-    location: "Thailand 🇹🇭",
-    interests: ["Web Development", "Mobile Apps", "AI/ML", "Open Source"],
-    currentFocus: "Building amazing web experiences",
-    funFact: "I debug with console.log() 🐛"
-};
+## �️ SYSTEM.INIT()
+
+```python
+class CyberDeveloper:
+    def __init__(self):
+        self.username = "anwakub"
+        self.role = "Full Stack Hacker"
+        self.location = "Thailand 🇹🇭"
+        self.interests = ["System Hacking", "Web Exploitation", "AI/ML", "Cyber Security"]
+        self.status = "ONLINE | CODING | HACKING"
+        self.motto = "In code we trust, in terminal we execute"
+    
+    def hack_the_planet(self):
+        while True:
+            self.code()
+            self.learn()
+            self.exploit()
+            self.secure()
+
+# Initialize system
+dev = CyberDeveloper()
+dev.hack_the_planet()
 ```
 
 ---
 
-## 🛠️ Tech Stack
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ ls -la /skills/
+```
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## ⚡ TECH ARSENAL
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### > LANGUAGES
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### > FRONTEND WEAPONRY
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF00)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=00FF00)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF00)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00)
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### > BACKEND SYSTEMS
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF00)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF00)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF00)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### > MOBILE ATTACK VECTORS
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF00)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00FF00)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### > DATABASE INFILTRATION
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF00)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF00)
+
+### > CYBER TOOLS
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00)
+![Vim](https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=00FF00)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00FF00)
 
 ---
 
-## 📊 GitHub Stats
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ cat /proc/github/stats
+```
+
+## 📊 SYSTEM ANALYTICS
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anwakub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anwakub&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00&border_color=00FF00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwakub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwakub&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&border_color=00FF00)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anwakub&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anwakub&theme=black-ice&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00AA00)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ ./display_trophies.sh
+```
+
+## 🏆 ACHIEVEMENT UNLOCKED
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anwakub&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anwakub&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ git log --graph --oneline
+```
+
+## 📈 COMMIT HISTORY
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anwakub&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anwakub&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff00&line=00aa00&point=00ff00)
 
 </div>
 
 ---
 
-## 🔥 Current Projects
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ ls projects/
+```
+
+## 💀 ACTIVE OPERATIONS
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing my work | React, Next.js, TailwindCSS |
-| 🎓 **University Platform** | Student organization website | Laravel, React, MySQL |
-| 📱 **Mobile App** | IT shop inventory system | Flutter, Firebase |
-| 🤖 **AI Chatbot** | FAQ bot with NLP | FastAPI, Python, AI/ML |
+| CODENAME | MISSION | TECH STACK |
+|----------|---------|------------|
+| � **PHANTOM-WEB** | Stealth portfolio infiltration | React, Next.js, TailwindCSS |
+| 🔐 **CIPHER-EDU** | University system penetration | Laravel, React, MySQL |
+| � **GHOST-MOBILE** | Mobile network exploitation | Flutter, Firebase |
+| 🤖 **NEURAL-BOT** | AI-powered cyber assistant | FastAPI, Python, TensorFlow |
 
 </div>
 
 ---
 
-## 💻 Coding Activity
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ ./connect.sh
+```
+
+## 🌐 NETWORK CONNECTIONS
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/anwakub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/anwakub)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00)](https://twitter.com/anwakub)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF00)](https://www.facebook.com/anwakub)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00)](https://www.instagram.com/anwakub)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00)](https://discord.gg/anwakub)
+
+</div>
+
+---
+
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ cat mission.log
+```
+
+## 🎯 MISSION OBJECTIVES 2026
+
+```diff
++ [COMPLETED] Master Next.js & Server Components
++ [COMPLETED] Deploy 10+ Open Source Projects
+! [IN PROGRESS] Contribute to Major OSS Projects
+! [IN PROGRESS] Master Rust & WebAssembly
+! [IN PROGRESS] DevOps & Cloud Infrastructure
+- [PENDING] Launch Tech Blog & YouTube Channel
+- [PENDING] Achieve 1000+ GitHub Stars
+- [PENDING] Build SaaS Product
+```
+
+---
+
+## 💻 TERMINAL OUTPUT
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 🌐 Connect with Me
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ fortune | cowsay
+```
+
+## 💀 HACKER WISDOM
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwakub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwakub)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anwakub)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anwakub)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anwakub)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║  "Talk is cheap. Show me the code."              ║
+║                        - Linus Torvalds          ║
+║                                                  ║
+║  "The best way to predict the future is to      ║
+║   invent it."                                    ║
+║                        - Alan Kay                ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 📌 Pinned Repositories
-
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwakub&repo=anwakub&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/anwakub/anwakub)
+
+### �️ ACCESS LOGS
+
+![Profile Views](https://komarev.com/ghpvc/?username=anwakub&color=00FF00&style=for-the-badge&label=INTRUSIONS)
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+```ascii
+┌─[root@anwakub]─[~]
+└──╼ $ ./infinite_loop.sh
+```
 
-<div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ⚡ SYSTEM PROCESS
 
-</div>
-
----
-
-## 🎯 Goals for 2026
-
-- ✅ Master Next.js and Server Components
-- ✅ Build 10+ open source projects
-- 🔄 Contribute to major open source projects
-- 🔄 Learn Rust and WebAssembly
-- 🔄 Master DevOps and Cloud Architecture
-- 📅 Start a tech blog/YouTube channel
-
----
-
-<div align="center">
-  
-### 💬 Quote of the Day
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
----
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=anwakub&color=6C63FF&style=for-the-badge&label=Profile+Views)
-
----
-
-### ⚡ Fun Fact
 ```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
+// Main execution loop
+while (true) {
+    hack();
+    sleep(false);
+    coffee.drink();
+    code.write();
+    bugs.fix();
+    features.deploy();
     repeat();
 }
+
+// Status: ALWAYS ONLINE ✓
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<div align="center">
+
+```
+ _____ _   _    _    _   _ _  __ ____  
+|_   _| | | |  / \  | \ | | |/ // ___| 
+  | | | |_| | / _ \ |  \| | ' / \___ \ 
+  | | |  _  |/ ___ \| |\  | . \  ___) |
+  |_| |_| |_/_/   \_\_| \_|_|\_\|____/ 
+                                        
+    FOR VISITING MY CYBER SPACE!
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**[SYSTEM TERMINATED SUCCESSFULLY]**
 
 </div>
