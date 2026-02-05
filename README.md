@@ -84,13 +84,13 @@ const anwakub = {
 <br/>
 
 <a href="https://github.com/anwakub">
-<img src="https://github-readme-stats.vercel.app/api?username=anwakub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anwakub&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/>
 
 <a href="https://github.com/anwakub">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anwakub&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=anwakub&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/>
