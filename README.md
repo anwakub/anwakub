@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7bdff2,50:b2f7ef,100:eff7f6&height=180&section=header&text=ANWAKUB&fontSize=60&fontColor=2d3436&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7bdff2,50:b2f7ef,100:eff7f6&height=180&section=header&text=ANAKINZ&fontSize=60&fontColor=2d3436&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <br/>
 
-### <samp>👋 Hi there, I'm Anwa</samp>
+### <samp>👋 Hi there, I'm Anakinz</samp>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Mobile+%26+Web+Applications;Passionate+about+Clean+Code+%26+UI%2FUX" alt="Typing SVG" /></a>
 
@@ -29,7 +29,7 @@
 ### 🚀 About Me
 
 ```javascript
-const anwakub = {
+const anzkinz = {
   role: "Full Stack Developer",
   based_in: "Thailand 🇹🇭",
   code: ["JavaScript", "Python", "Dart", "PHP"],
