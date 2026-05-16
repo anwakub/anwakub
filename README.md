@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7bdff2,50:b2f7ef,100:eff7f6&height=180&section=header&text=ANAKINZ&fontSize=60&fontColor=2d3436&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00d2ff&height=200&section=header&text=ANAKINZ&fontSize=70&fontColor=00d2ff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <br/>
 
-### <samp>👋 Hi there, I'm Anakinz</samp>
+### <samp>👋 ＳＹＳＴＥＭ_ＯＮＬＩＮＥ： Ｈｅｌｌｏ， Ｉ＇ｍ Ａｎａｋｉｎｚ （Ａｌｉｆ）</samp>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Mobile+%26+Web+Applications;Passionate+about+Clean+Code+%26+UI%2FUX" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Anstack;IoT+%26+Hardware+Engineer;Passionate+about+Cyber+Aesthetics;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" /></a>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/anwakub">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=00d2ff" />
   </a>
   <a href="https://linkedin.com/in/anwakub">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00d2ff" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00d2ff" />
   </a>
 </p>
 
@@ -26,83 +26,18 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 ＥＸＥＣＵＴＩＮＧ_ＰＲＯＦＩＬＥ．ｊｓ
 
 ```javascript
-const anzkinz = {
-  role: "Full Stack Developer",
-  based_in: "Thailand 🇹🇭",
-  code: ["JavaScript", "Python", "Dart", "PHP"],
+const anakinz = {
+  role: "Full Stack Developer & IoT Engineer",                                          // Founder of Anstack Software House
+  based_in: "Thailand 🇹🇭",                                                              // Operating in YRU
   technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Laravel", "FastAPI"],
-    mobile: ["Flutter"]
+    frontend: ["React", "Next.js", "Tailwind CSS"],                                     // Crafting futuristic UI/UX
+    backend: ["Node.js", "Laravel", "Linux Server"],                                    // Secure & Scalable Architecture
+    mobile: ["Flutter"],                                                                // Cross-platform deployment
+    hardware: ["ESP32", "Sensors", "Microcontrollers"]                                  // Bridging physical & digital worlds
   },
-  current_focus: "Building scalable and beautiful web apps",
-  quote: "Code is like humor. When you have to explain it, it’s bad."
+  featured_projects: ["YRU FloodCare", "IoT Smart Farm", "CineVault", "Anstack Shop"],  // Recent deployments
+  current_focus: "Integrating Agentic AI with Hardware & Building Cyber UIs",           // Continuous evolution
 };
-```
-
----
-
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<br/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-<!-- Backend & Languages -->
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-
-<!-- Mobile & Tools -->
-<br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<br/>
-
-<a href="https://github.com/anwakub">
-<img src="https://github-readme-stats.vercel.app/api?username=anwakub&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/anwakub">
-<img src="https://streak-stats.demolab.com?user=anwakub&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/anwakub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwakub&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eff7f6,50:b2f7ef,100:7bdff2&height=100&section=footer" width="100%"/>
-</div>
